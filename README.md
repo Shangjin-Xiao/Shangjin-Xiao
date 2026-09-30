@@ -10,9 +10,9 @@
 
 ## 🛠 项目
 
-**[心迹 ThoughtEcho](https://github.com/Shangjin-Xiao/ThoughtEcho)** — 跨平台灵感摘录笔记，内置 AI 伴侣 Thoughter，支持本地优先同步。Flutter & Dart。
+**[心迹 ThoughtEcho](https://github.com/Shangjin-Xiao/ThoughtEcho)** — 跨平台灵感摘录笔记软件，内置 AI 伴侣 Thoughter，支持本地优先同步。Flutter & Dart。
 
-**[帧迹 FrameEcho](https://github.com/Shangjin-Xiao/FrameEcho)** — Android 高性能视频抽帧，支持 HDR、动态照片与 EXIF 无损保留。
+**[帧迹 FrameEcho](https://github.com/Shangjin-Xiao/FrameEcho)** — Android 高性能视频抽帧应用，支持 HDR、动态照片与 EXIF 无损保留。
 
 ## 📝 文章
 
