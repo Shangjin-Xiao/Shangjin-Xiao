@@ -20,6 +20,9 @@
 
 最近更新：
 <!-- BLOG-POST-LIST:START -->
+- [一个独立开发者的工具演进：我是怎样开发心迹的](https://blog.shangjinyun.cn/posts/004/)
+- [默默合并的百余个 PR：Google Jules 如何帮我打磨心迹](https://blog.shangjinyun.cn/posts/003/)
+- [隆重介绍 Thoughter：住进心迹摘录本里的 AI 伴侣](https://blog.shangjinyun.cn/posts/002/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
