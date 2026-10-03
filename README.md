@@ -1,7 +1,7 @@
 # 你好，我是上晋 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=435&lines=Student+Developer;Flutter+%26+Dart;Vibe+Coding;%E7%9C%8B%E4%B8%96%E7%95%8C+%2F+%E5%86%99%E4%BB%A3%E7%A0%81" alt="Typing SVG" /></a>
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=435&height=30&lines=Student+Developer;Flutter+%26+Dart;Vibe+Coding;%E7%9C%8B%E4%B8%96%E7%95%8C+%2F+%E5%86%99%E4%BB%A3%E7%A0%81" alt="Typing SVG" /></a>
+
 课余做自己想用的软件，假期就出去看看外面的世界。写点开发笔记和路上见闻。
 
 ## 🛠 项目
