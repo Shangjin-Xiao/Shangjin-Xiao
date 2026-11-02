@@ -15,9 +15,9 @@
 
 最近更新：
 <!-- BLOG-POST-LIST:START -->
+- [给 Thoughter 做记忆：从参考开源、Agent 评测翻车到跑通“做梦”](https://blog.shangjinyun.cn/posts/007/)
 - [当其他笔记 AI 还在等指令，心迹 4.1.0 的 Thoughter 已经开始“做梦”了](https://blog.shangjinyun.cn/posts/006/)
 - [我为什么做心迹，以及我怎么用它](https://blog.shangjinyun.cn/posts/005/)
-- [一个独立开发者的工具演进：我是怎样开发心迹的](https://blog.shangjinyun.cn/posts/004/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
